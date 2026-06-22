@@ -1,2 +1,10 @@
-# to-do-app
-A client-side To-Do List application demonstrating DOM manipulation, event handling, state management, and local storage using vanilla JavaScript.
+# JavaScript To-Do List App
+
+Features:
+- Create tasks
+- Update tasks
+- Delete tasks
+- Filter tasks (All, Active, Completed)
+- Local Storage persistence
+
+Built using HTML, CSS and JavaScript.
